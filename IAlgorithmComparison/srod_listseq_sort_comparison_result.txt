@@ -1,0 +1,10 @@
+
+ListSequence, sorted in reverse order data comparison result:
+#1. QuickSort ran in 0.0914305s.
+#2. MergeSort ran in 0.142184s.
+#3. ShellSort ran in 0.157985s.
+#4. InsertionSort ran in 0.664671s.
+#5. BubbleSort ran in 0.979196s.
+#6. ShakerSort ran in 1.31716s.
+#7. BinaryInsertionSort ran in 3.06255s.
+#8. SelectionSort ran in 5.66841s.

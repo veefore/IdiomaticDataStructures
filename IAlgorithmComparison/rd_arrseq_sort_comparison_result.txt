@@ -1,0 +1,10 @@
+
+ArraySequence, random data comparison result:
+#1. QuickSort ran in 0.0351692s.
+#2. ShellSort ran in 0.0603104s.
+#3. MergeSort ran in 0.0844339s.
+#4. BinaryInsertionSort ran in 0.159447s.
+#5. InsertionSort ran in 0.17492s.
+#6. ShakerSort ran in 0.24293s.
+#7. BubbleSort ran in 0.280876s.
+#8. SelectionSort ran in 2.18736s.

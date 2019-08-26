@@ -1,0 +1,10 @@
+
+ListSequence, random data comparison result:
+#1. QuickSort ran in 0.0904998s.
+#2. ShellSort ran in 0.139125s.
+#3. MergeSort ran in 0.150615s.
+#4. BinaryInsertionSort ran in 0.403604s.
+#5. InsertionSort ran in 0.444162s.
+#6. BubbleSort ran in 0.769851s.
+#7. ShakerSort ran in 0.781329s.
+#8. SelectionSort ran in 5.438s.
